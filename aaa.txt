@@ -1,2 +1,3 @@
 aaaaaa
 cambio desde B
+conflicto desde A
